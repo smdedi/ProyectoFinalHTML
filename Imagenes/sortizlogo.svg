@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="70mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="sortizlogo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3733">
+      <stop
+         style="stop-color:#8686bf;stop-opacity:1;"
+         offset="0"
+         id="stop3729" />
+      <stop
+         style="stop-color:#8686bf;stop-opacity:0;"
+         offset="1"
+         id="stop3731" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-108.98849 : 51.905572 : 1"
+       inkscape:vp_y="0 : 1510.6176 : 0"
+       inkscape:vp_z="300.82254 : 88.448136 : 1"
+       inkscape:persp3d-origin="203.12007 : 25.09211 : 1"
+       id="perspective3713" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3733"
+       id="linearGradient3735"
+       x1="24.848977"
+       y1="90.647407"
+       x2="49.638816"
+       y2="90.647407"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9035156,0,0,1.5106175,3.2509433,-27.194392)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3733"
+       id="linearGradient3743"
+       x1="49.638813"
+       y1="103.00192"
+       x2="74.213028"
+       y2="82.634087"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9035156,0,0,1.5106175,3.2509433,-27.194392)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g3715"
+       inkscape:perspectiveID="#perspective3713"
+       inkscape:corner0="0.9563048 : 0.19830157 : 0 : 1"
+       inkscape:corner7="0.50975696 : 0.13437584 : 0.45182224 : 1"
+       inkscape:transform-center-y="-14.845418"
+       inkscape:transform-center-x="5.6740528e-006">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3717"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:1.69572532;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 50.551354,105.67629 v 49.36211 l 46.956863,10.04041 v -40.1006 z"
+         points="50.551354,155.0384 97.508217,165.07881 97.508217,124.97821 50.551354,105.67629 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3727"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:1.69572532;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="M 97.508217,124.97821 144.5166,97.6341 v 49.22938 l -47.008383,18.21533 z"
+         points="144.5166,97.6341 144.5166,146.86348 97.508217,165.07881 97.508217,124.97821 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3719"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:1.69572532;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="M 50.551354,105.67629 97.739196,64.439941 144.5166,97.6341 97.508217,124.97821 Z"
+         points="97.739196,64.439941 144.5166,97.6341 97.508217,124.97821 50.551354,105.67629 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3725"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1.69572532;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="M 50.551354,155.0384 97.739196,128.40211 144.5166,146.86348 97.508217,165.07881 Z"
+         points="97.739196,128.40211 144.5166,146.86348 97.508217,165.07881 50.551354,155.0384 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3723"
+         style="fill:url(#linearGradient3743);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69572532;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="M 97.739196,64.439941 V 128.40211 L 144.5166,146.86348 V 97.6341 Z"
+         points="97.739196,128.40211 144.5166,146.86348 144.5166,97.6341 97.739196,64.439941 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3721"
+         style="fill:url(#linearGradient3735);fill-rule:evenodd;stroke:none;stroke-width:1.69572532;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="M 50.551354,105.67629 97.739196,64.439941 V 128.40211 L 50.551354,155.0384 Z"
+         points="97.739196,64.439941 97.739196,128.40211 50.551354,155.0384 50.551354,105.67629 " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.8735218px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.54683805;"
+       x="67.119774"
+       y="138.98822"
+       id="text3775"
+       transform="scale(0.96950245,1.0314569)"><tspan
+         sodipodi:role="line"
+         id="tspan3773"
+         x="67.119774"
+         y="138.98822"
+         style="stroke-width:0.54683805;fill:#ffffff;">SOrtiz</tspan></text>
+  </g>
+</svg>
